@@ -1,0 +1,11 @@
+#addon_hideqtydiscountsinstalled .bg-icon,
+#addon_hideqtydiscounts .bg-icon {
+    background-image: url('../../../media/images/addons/hideqtydiscounts/icon.png');
+    background-size: contain;
+    border: 0px;
+}
+
+#addon_hideqtydiscountsinstalled .bg-icon i,
+#addon_hideqtydiscounts .bg-icon i {
+    display: none;
+}

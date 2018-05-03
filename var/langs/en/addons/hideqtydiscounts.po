@@ -1,0 +1,25 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "LanguageName"
+msgid "Localized language name"
+msgstr "English"
+
+msgctxt "Addons::name::hideqtydiscounts"
+msgid "Hide QTY Discounts"
+msgstr "Hide QTY Discounts"
+
+msgctxt "Addons::description::hideqtydiscounts"
+msgid "Hide the quantity discount when editing a product. Developed by <a target=\"_blank\" href=\"https://lesniakswann.com/\">Lesniak Swann</a>."
+msgstr "Hide the quantity discount when editing a product. Developed by <a target=\"_blank\" href=\"https://lesniakswann.com/\">Lesniak Swann</a>."
+
+msgctxt "SettingsSections::hideqtydiscounts::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::hideqtydiscounts::hide_qty_discounts"
+msgid "Hide Quantity Discounts"
+msgstr "Hide Quantity Discounts"
